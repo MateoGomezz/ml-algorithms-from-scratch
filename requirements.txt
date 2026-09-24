@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+pytest
+jupyter
+pydotplus   # tree plots in lab 07 (also needs Graphviz installed: https://graphviz.org/download/)
